@@ -1,0 +1,24 @@
+#tela{
+    background-color: rgb(182, 243, 238);
+    margin: 0;
+}
+
+#logo{
+    width: 10%;
+
+}
+
+#titulo{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+
+
+#textoLogin{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#botao{
+
+}
